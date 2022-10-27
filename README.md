@@ -1,5 +1,7 @@
 # LabView
-Here you find two LabView projects 
+Here you find two LabView projects that implement state machine and loops.
+
+
     -Elevator project:
         It onsists of a LabView implementation for an elevator 
         with its stop cases.
